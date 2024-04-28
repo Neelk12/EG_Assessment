@@ -1,4 +1,4 @@
-# EG_Assessment
+# Predecting player's rank based on performance data in ranked games
 
 You’re given a dataset of Starcraft player performance data in ranked games. We want
 to develop a model to predict a player’s rank using the information provided in the
